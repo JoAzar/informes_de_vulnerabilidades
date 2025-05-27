@@ -3,9 +3,9 @@
 ## Observación sobre un posible subdominio inactivo asociado a un dominio público
 
 ---
-Fecha: 26/05/2025
-Remitente: Favio Joel Zalazar
-Destinatario: Área Técnica – Entidad Pública Nacional
+    Fecha: 26/05/2025
+    Remitente: Favio Joel Zalazar
+    Destinatario: Área Técnica – Entidad Pública Nacional
 ---
 
 ## Introducción
