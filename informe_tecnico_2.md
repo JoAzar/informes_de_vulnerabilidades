@@ -1,8 +1,11 @@
 # Informe de Vulnerabilidad Crítica – Sunsight Solutions
 
 **Fecha del hallazgo:** 4 de Junio del 2025
+
 **Reportado por:** Red
-**Severidad:** Crítica  
+
+**Severidad:** Crítica 
+ 
 **Estado:** Divulgación responsable en proceso
 
 ---
