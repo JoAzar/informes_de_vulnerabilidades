@@ -3,7 +3,8 @@
 Descripción del Problema
 
 Exponer un archivo .htpasswd (o cualquier archivo que contenga credenciales de usuario) en un repositorio público de código es una vulnerabilidad crítica de seguridad. El archivo .htpasswd contiene datos sensibles, como nombres de usuario y contraseñas encriptadas, que podrían ser explotados si caen en manos equivocadas. A pesar de que las contraseñas están encriptadas, los atacantes pueden intentar descifrarlas mediante técnicas de cracking.
-Qué es un archivo .htpasswd
+
+## Qué es un archivo .htpasswd
 
 El archivo .htpasswd se utiliza en servidores web, como Apache, para gestionar la autenticación de usuarios. Contiene una lista de nombres de usuario y sus respectivas contraseñas encriptadas, generalmente utilizando un algoritmo como APR1 (una variante de MD5) o bcrypt. Este archivo es esencial para proteger áreas privadas de un sitio web.
 Impacto de la Exposición
